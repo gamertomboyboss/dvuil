@@ -1,0 +1,33 @@
+
+
+.body
+{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.h1
+{
+    color: cadetblue;
+    font-size: 35px;
+    margin: 5px 5px 5px;
+    box-shadow: darkblue;
+}
+
+.h2
+{
+    color: deepskyblue;
+    font-size: 19px;
+    box-shadow: dodgerblue;
+}
+
+.footer
+{
+  position: fixed;
+  color: azure;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  line-height: 3;
+  text-align: center;
+}
